@@ -7,7 +7,7 @@
 | --- | --- |
 | this log | [100 Days Round 2](https://james-priest.github.io/100-days-of-code-log-r2/) | 100 Days Round 3 |
 
-### Challenge & Commitment
+## Challenge & Commitment
 This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
 
 **Commitment:** *I will code daily for the next 100 days.*
@@ -16,7 +16,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | ------------- | ------------ |
 | June 12, 2017 | January 25, 2018 |
 
-### Goals
+## Goals
 
 - [x] Code daily
 - [x] Expand portfolio
@@ -28,7 +28,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
   - Use #100DaysOfCode, #CodeNewbie, & #freecodecamp hashtags.
 - [*] Pass my Microsoft Programming in HTML5 with JavaScript & CSS3 Cert - [Exam 70-480](https://www.microsoft.com/en-us/learning/exam-70-480.aspx "Exam 70-480: Programming in HTML5 with JavaScript and CSS3")
 
-#### Secondary Goals & Resources
+### Secondary Goals & Resources
 
 - Knock out the following...
   - [*] Complete [FCC Front End Development Certification](https://www.freecodecamp.com/james-priest "FCC Profile") program
