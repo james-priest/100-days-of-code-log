@@ -1,17 +1,22 @@
 <!-- markdownlint-disable MD022 MD032 -->
 # James Priest
 
-## 100 Days Of Code Log
+## 100 Days Of Code
 
-**Commitment:** ***I will code for at least an hour a day for the next 100 days.***
+| Log 1 (Days 1-100) | Log 2 (Days 101-200) | Log 3 (Days 201-200) |
+| --- | --- |
+| this log | [100 Days Round 2](https://james-priest.github.io/100-days-of-code-log-r2/) | 100 Days Round 3 |
 
+### Challenge & Commitment
 This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
+
+**Commitment:** *I will code daily for the next 100 days.*
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
 | June 12, 2017 | January 25, 2018 |
 
-## Goals
+### Goals
 
 - [x] Code daily
 - [x] Expand portfolio
@@ -23,7 +28,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
   - Use #100DaysOfCode, #CodeNewbie, & #freecodecamp hashtags.
 - [*] Pass my Microsoft Programming in HTML5 with JavaScript & CSS3 Cert - [Exam 70-480](https://www.microsoft.com/en-us/learning/exam-70-480.aspx "Exam 70-480: Programming in HTML5 with JavaScript and CSS3")
 
-### Secondary Goals & Resources
+#### Secondary Goals & Resources
 
 - Knock out the following...
   - [*] Complete [FCC Front End Development Certification](https://www.freecodecamp.com/james-priest "FCC Profile") program
@@ -37,7 +42,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
   - Maybe [Udacity's Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001?utm_medium=referral&utm_campaign=api) program
   - Maybe [Coding Dojo's Full Stack Developer Bootcamp](http://www.codingdojo.com/web-development-accelerators)
 -->
-# Log
+# Code Log
 <!--
 ## 1.
 ### Day 1: January,10 2017 - Saturday
