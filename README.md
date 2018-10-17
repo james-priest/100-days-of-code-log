@@ -3,9 +3,9 @@
 
 ## 100 Days Of Code
 
-| Log 1 (Days 1-100) | Log 2 (Days 101-200) | Log 3 (Days 201-300) |
-| --- | --- | --- |
-| this log | [100 Days Round 2](https://james-priest.github.io/100-days-of-code-log-r2/) | [100 Days Round 3](https://james-priest.github.io/100-days-of-code-log-r3/) |
+| Log 1 | Log 2 | Log 3 | Log 4 |
+| --- | --- | --- | --- |
+| this log | [100 Days Round 2](https://james-priest.github.io/100-days-of-code-log-r2/) | [100 Days Round 3](https://james-priest.github.io/100-days-of-code-log-r3/) | [100 Days Round 4](https://james-priest.github.io/100-days-of-code-log-r4/) |
 
 ## Challenge & Commitment
 This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
@@ -3198,7 +3198,7 @@ The important thing is that I did get something done and posted. I'm keeping it 
 
 My goal is to do 4 Pomodoros for each two-hour Study block (in blue).
 
-[![Time Map Schedule](/assets/images/sm_time-map.jpg)](/assets/images/full-size/time-map.jpg)
+[![Time Map Schedule](/assets/images/sm_time-map.jpg)](assets/images/full-size/time-map.jpg)
 
 ---
 
