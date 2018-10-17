@@ -2467,7 +2467,8 @@ Example 2: setTimeout in object literal
 var obj2 = {
     count: 3,
     repeat: function () {
-        // bring vars down here so inner function can contain the variable count in it's closure scope
+        // bring vars down here so inner function can contain the variable count
+        // in it's closure scope
         var enclosedCount = this.count;
 
         function doSomething() {
