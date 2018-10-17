@@ -1963,7 +1963,7 @@ This confirmed to me that I need to a framework in order to best layout the info
 - SVG backgrounds
 - Use of Google fonts
 
-[![CodePen Screenshot](/assets/images/sm_codepen-fcc-quote-gen.jpg)](https://codepen.io/james-priest/pen/RZdGNo/)
+[![CodePen Screenshot](assets/images/sm_codepen-fcc-quote-gen.jpg)](https://codepen.io/james-priest/pen/RZdGNo/)
 
 ---
 
@@ -1980,7 +1980,7 @@ This confirmed to me that I need to a framework in order to best layout the info
 
 **Thoughts:** Completing the JSON, API, and Ajax section was very straight forward compared to the hairpulling exercise of a couple of the algorithms challenges.
 
-[![fcc-algorithms](/assets/images/sm_fcc-finish-json-apis-ajax.jpg)](/assets/images/full-size/fcc-finish-json-apis-ajax.png)
+[![fcc-algorithms](assets/images/sm_fcc-finish-json-apis-ajax.jpg)](assets/images/full-size/fcc-finish-json-apis-ajax.png)
 
 ---
 
@@ -2001,7 +2001,7 @@ This did help to spark that diffuse mode of thinking and finally worked out. It 
 
 Marking up my screenshot with derogatory callouts did help me work out my frustration a bit. It helped me vent. :)
 
-[![fcc-algorithms](/assets/images/sm_fcc-finish-basic-algorithms.jpg)](/assets/images/full-size/fcc-finish-basic-algorithms.png)
+[![fcc-algorithms](assets/images/sm_fcc-finish-basic-algorithms.jpg)](assets/images/full-size/fcc-finish-basic-algorithms.png)
 
 ---
 
@@ -2020,7 +2020,7 @@ Marking up my screenshot with derogatory callouts did help me work out my frustr
 
 This has been a bit slow at times but I can tell some real learning is taking place; that point were we go from merely understanding and following a solution to creatively constructing and developing our own. It is this critical part that deeply engrains the mental patterns necessary to truly gain efficiency and then mastery of the material.
 
-[![fcc-algorithms](/assets/images/sm_fcc-algorithms1.jpg)](/assets/images/full-size/fcc-algorithms1.png)
+[![fcc-algorithms](assets/images/sm_fcc-algorithms1.jpg)](assets/images/full-size/fcc-algorithms1.png)
 
 ---
 
@@ -2037,7 +2037,7 @@ This has been a bit slow at times but I can tell some real learning is taking pl
 
 **Thoughts:** Covered specific Array methods: concat, filter, join, map, reduce, reverse, sort & split. Also covered Object Oriented concepts such as creating objects as variables, constructing objects with functions, object instances with constructor function, passing parameters to constructor function and making object properties private.
 
-[![FCC Screenshot](/assets/images/sm_fcc-finish-oo-and-fp.jpg)](/assets/images/full-size/fcc-finish-oo-and-fp.png)
+[![FCC Screenshot](assets/images/sm_fcc-finish-oo-and-fp.jpg)](assets/images/full-size/fcc-finish-oo-and-fp.png)
 
 ---
 
@@ -2052,7 +2052,7 @@ This has been a bit slow at times but I can tell some real learning is taking pl
 
 **Thoughts:** Covered Arrays, Multi-dimensional arrays, loops, objects, Math object, etc.
 
-[![FCC Screenshot](/assets/images/sm_fcc-finish-basic-javascript.jpg)](/assets/images/full-size/fcc-finish-basic-javascript.png)
+[![FCC Screenshot](assets/images/sm_fcc-finish-basic-javascript.jpg)](assets/images/full-size/fcc-finish-basic-javascript.png)
 
 ---
 
@@ -2067,7 +2067,7 @@ This has been a bit slow at times but I can tell some real learning is taking pl
 
 **Thoughts:** Left off on counting cards challenge. Will pick it up tomorrow.
 
-[![FCC Counting Cards](/assets/images/sm_fcc-counting-cards.jpg)](/assets/images/full-size/fcc-counting-cards.png)
+[![FCC Counting Cards](assets/images/sm_fcc-counting-cards.jpg)](assets/images/full-size/fcc-counting-cards.png)
 
 ---
 
@@ -2082,7 +2082,7 @@ This has been a bit slow at times but I can tell some real learning is taking pl
 
 **Thoughts:** I will go back and put together a personal portfolio site once I have a recent sampling of work. For now I decided to have fun with the project. I can also add more pages if I want to play with it since its on Netlify.
 
-[![SPYCats webpage on Netlify](/assets/images/sm_netlify-spycats-wide1.jpg)](/assets/images/full-size/netlify-spycats-wide1.png)
+[![SPYCats webpage on Netlify](assets/images/sm_netlify-spycats-wide1.jpg)](assets/images/full-size/netlify-spycats-wide1.png)
 
 ---
 
@@ -2097,7 +2097,7 @@ This has been a bit slow at times but I can tell some real learning is taking pl
 
 **Thoughts:** CodePen has some great features and I love how flexible it is. It's an awesome platform for sharing code and showcasing projects but difficult to do extensive development in.
 
-[![CodePen Screenshot](/assets/images/sm_codepen-fcc-portfolio.jpg)](https://codepen.io/james-priest/pen/prpjEK)
+[![CodePen Screenshot](assets/images/sm_codepen-fcc-portfolio.jpg)](https://codepen.io/james-priest/pen/prpjEK)
 
 ---
 
@@ -2118,7 +2118,7 @@ This has been a bit slow at times but I can tell some real learning is taking pl
 - components, glyphs, and plugins
 - icons, fonts and behavior
 
-[![Blast Off with Bootstrap webpage](/assets/images/sm_code-school-bootstrap.jpg)](http://bootstrap-blast-off.netlify.com)
+[![Blast Off with Bootstrap webpage](assets/images/sm_code-school-bootstrap.jpg)](http://bootstrap-blast-off.netlify.com)
 
 ---
 
@@ -2140,7 +2140,7 @@ This has been a bit slow at times but I can tell some real learning is taking pl
 - Floats, Clearfixes, & layouts
 - selector best practices
 
-[![VSCode Editor](/assets/images/sm_vscode-css-specificity.jpg)](https://rawgit.com/james-priest/code-exercises/master/html_exercises/css-cross-country/index.html)
+[![VSCode Editor](assets/images/sm_vscode-css-specificity.jpg)](https://rawgit.com/james-priest/code-exercises/master/html_exercises/css-cross-country/index.html)
 
 ---
 
@@ -2160,7 +2160,7 @@ This has been a bit slow at times but I can tell some real learning is taking pl
 
 **Thoughts:** This was basic/beginning HTML/CSS but was a good refresher.
 
-[![VSCode Editor](/assets/images/sm_vscode-html5.jpg)](https://rawgit.com/james-priest/code-exercises/master/html_exercises/front-end-foundations/magic-cake.html)
+[![VSCode Editor](assets/images/sm_vscode-html5.jpg)](https://rawgit.com/james-priest/code-exercises/master/html_exercises/front-end-foundations/magic-cake.html)
 
 ---
 
@@ -2178,7 +2178,7 @@ This has been a bit slow at times but I can tell some real learning is taking pl
 
 **Thoughts:** I like the format of Code School's content. It's focused and clear.
 
-[![VSCode Editor](/assets/images/sm_vscode-css-colors.jpg)](/assets/images/full-size/vscode-css-colors.png)
+[![VSCode Editor](assets/images/sm_vscode-css-colors.jpg)](assets/images/full-size/vscode-css-colors.png)
 
 ---
 
@@ -2200,7 +2200,7 @@ Where I had trouble was in trying to change Bootstraps 3's structural format by 
 
 This didn't work so well so I changed back to the div heavy structure.
 
-[![Pen using Bootstrap 3](/assets/images/sm_codepen-bootstrap3.jpg)](https://codepen.io/james-priest/pen/prpjEK)
+[![Pen using Bootstrap 3](assets/images/sm_codepen-bootstrap3.jpg)](https://codepen.io/james-priest/pen/prpjEK)
 
 ---
 
@@ -2237,7 +2237,7 @@ This didn't work so well so I changed back to the div heavy structure.
 
 **Thoughts:** Could have used bootstrap. Instead I hand-coded the css.
 
-[![CodePen](/assets/images/sm_fcc-tribute-page.jpg)](https://codepen.io/james-priest/pen/MvEdOV?editors=1100)
+[![CodePen](assets/images/sm_fcc-tribute-page.jpg)](https://codepen.io/james-priest/pen/MvEdOV?editors=1100)
 
 ---
 
@@ -2285,7 +2285,7 @@ Use the link on **Link to work:** to read the article
 
 **Thoughts:** Debugging from within VSCode is absolutely essential to tracking down errors and evaluating code during execution.
 
-[![VSCode Debug](/assets/images/sm_vscode-debug.jpg)](https://code.visualstudio.com/docs/editor/debugging)
+[![VSCode Debug](assets/images/sm_vscode-debug.jpg)](https://code.visualstudio.com/docs/editor/debugging)
 
 ---
 
@@ -2301,7 +2301,7 @@ Use the link on **Link to work:** to read the article
 1. Customized the template (sidebar, header & footer)
 1. Wrote my first post!
 
-[![Wordpress Blog](/assets/images/sm_wordpress-blog.jpg)](https://100daycodeblog.wordpress.com/)
+[![Wordpress Blog](assets/images/sm_wordpress-blog.jpg)](https://100daycodeblog.wordpress.com/)
 
 **Link to work:**
 - [https://100daycodeblog.wordpress.com/](https://100daycodeblog.wordpress.com/)
@@ -2326,7 +2326,7 @@ I was actually inspired to do a WordPress blog by [@AdrianaHasburn](https://twit
   - Persistence with DevTools Workspaces - Setting up source file mapping allows code changes to persist to source files
   - CSS & JS Preprocessors - Using Source Maps allow direct references to preprocessed source files for saving changes directly from DevTools
 
-[![Chrome DevTools](/assets/images/sm_chrome-devtools.jpg)](https://developers.google.com/web/tools/setup/)
+[![Chrome DevTools](assets/images/sm_chrome-devtools.jpg)](https://developers.google.com/web/tools/setup/)
 
 **Link to work:**
 - Link to [DevTools Getting Started Docs](https://developers.google.com/web/tools/setup/)
@@ -2417,7 +2417,7 @@ I also got syntactic help from [https://stackoverflow.com/questions/25889950/set
 - FontAwesome for nav pointer (breadcrumb)
 - Updated CSS to indicate active link
 
-[![CV Site](/assets/images/sm_cv-site.jpg)](https://james-priest.github.io/)
+[![CV Site](assets/images/sm_cv-site.jpg)](https://james-priest.github.io/)
 
 **Link to work:**
 - [https://james-priest.github.io](https://james-priest.github.io/ "My online CV")
@@ -2526,7 +2526,7 @@ console.log(doIt);
 **Today's Project(s):**
 - Creating some proof of concept pens and testing out the environment
 
-[![Plunker](/assets/images/sm_codepen-singleton-pattern.jpg)](https://codepen.io/james-priest/pen/PKmMzP?editors=1111)
+[![Plunker](assets/images/sm_codepen-singleton-pattern.jpg)](https://codepen.io/james-priest/pen/PKmMzP?editors=1111)
 
 **Progress:**
 - Set up my profile
@@ -2564,7 +2564,7 @@ In the end it turned out fine. By re-coding the exercise I inadvertently ended u
 
 **Thoughts:** Here are my two cents...
 
-[![JSBin](/assets/images/sm_jsbin.jpg)](http://jsbin.com/howuzec/3/edit?html,js,output)
+[![JSBin](assets/images/sm_jsbin.jpg)](http://jsbin.com/howuzec/3/edit?html,js,output)
 **JSBin** - This is my goto js playground for testing syntax & short proof-of-concepts
 - Pros
   - quick setup
@@ -2578,7 +2578,7 @@ In the end it turned out fine. By re-coding the exercise I inadvertently ended u
   - less used features are not/is not inherently intuitive.
   - editor is limited to one html, css & js file
 
-[![Plunker](/assets/images/sm_plunker.jpg)](https://plnkr.co/edit/O73CdaJyTJenpBshvjzR?p=info)
+[![Plunker](assets/images/sm_plunker.jpg)](https://plnkr.co/edit/O73CdaJyTJenpBshvjzR?p=info)
 **Plunker** - great multi-file environment
 - Pros
   - Editor is spacious
@@ -2589,7 +2589,7 @@ In the end it turned out fine. By re-coding the exercise I inadvertently ended u
 - Cons
   - no integrated Console
 
-[![CodePen](/assets/images/sm_codepen.jpg)](https://codepen.io/james-priest/pen/jLmxvZ)
+[![CodePen](assets/images/sm_codepen.jpg)](https://codepen.io/james-priest/pen/jLmxvZ)
 **CodePen** - great UX (fully featured experience)
 - Pros
   - Intuitive and configurable ui
@@ -2728,7 +2728,7 @@ Here are the key take-aways about IIFEs from @kirupa:
   - !function(e){ console.log(e) }('hi')
   - typeof function(e){ console.log(e) }('hi')
 
-[![Singleton with IIFEs](/assets/images/sm_vscode-singleton-iife.jpg)](/assets/images/full-size/vscode-singleton-iife.png)
+[![Singleton with IIFEs](assets/images/sm_vscode-singleton-iife.jpg)](assets/images/full-size/vscode-singleton-iife.png)
 
 ---
 
@@ -2746,7 +2746,7 @@ Here are the key take-aways about IIFEs from @kirupa:
 
 **Thoughts:** Object literals are a beautiful way to organize your code. It uses key/value pairs and nests well for deeper hierarchies. It also reads well and is easy to understand if structured properly.
 
-[![Object Literal Notation](/assets/images/sm_vscode_object_literals.jpg)](/assets/images/full-size/vscode_object_literals.png)
+[![Object Literal Notation](assets/images/sm_vscode_object_literals.jpg)](assets/images/full-size/vscode_object_literals.png)
 
 ---
 
@@ -3009,7 +3009,7 @@ The Intro to ASP.NET Core class is great. It's hosted by Scott Hanselman and Mar
 
 **Link to work:**
 
-[![Netlify javascript array methods screenshot](/assets/images/sm_netlify-javascript-array-methods.jpg)](http://javascript-array-methods.netlify.com/)
+[![Netlify javascript array methods screenshot](assets/images/sm_netlify-javascript-array-methods.jpg)](http://javascript-array-methods.netlify.com/)
 
 - [JavaScript Array Methods](https://github.com/james-priest/javascript-array-methods "GitHub repo") on  GitHub - click image to see demo
 - [My FCC Code Portfolio](https://www.freecodecamp.com/james-priest "james-priest's code portfolio on FreeCodeCamp")
@@ -3174,7 +3174,7 @@ The important thing is that I did get something done and posted. I'm keeping it 
 
 **Thoughts:** This took a little while to get started on.  I'm reading Personal Kanban by Jim Benson. Here's a link to the companion site: [Personal Kanban](http://www.personalkanban.com/pk/ "Short Overview and YouTube video of Personal Kanban").
 
-[![My Kanban Board](/assets/images/sm_kanban-board.jpg)](/assets/images/full-size/kanban-board.jpg)
+[![My Kanban Board](assets/images/sm_kanban-board.jpg)](assets/images/full-size/kanban-board.jpg)
 
 ---
 
@@ -3198,7 +3198,7 @@ The important thing is that I did get something done and posted. I'm keeping it 
 
 My goal is to do 4 Pomodoros for each two-hour Study block (in blue).
 
-[![Time Map Schedule](/assets/images/sm_time-map.jpg)](assets/images/full-size/time-map.jpg)
+[![Time Map Schedule](assets/images/sm_time-map.jpg)](assets/images/full-size/time-map.jpg)
 
 ---
 
