@@ -26,16 +26,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
   - This has been awesome!
   - Great support and encouragement from my Twitter family!
   - Use #100DaysOfCode, #CodeNewbie, & #freecodecamp hashtags.
-- [*] Pass my Microsoft Programming in HTML5 with JavaScript & CSS3 Cert - [Exam 70-480](https://www.microsoft.com/en-us/learning/exam-70-480.aspx "Exam 70-480: Programming in HTML5 with JavaScript and CSS3")
 
 ### Secondary Goals & Resources
 
 - Knock out the following...
-  - [*] Complete [FCC Front End Development Certification](https://www.freecodecamp.com/james-priest "FCC Profile") program
-  - [*] Complete [Udemy The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/ "The Web Developer Bootcamp by Colt Steele") certificate program
-  - [*] Complete [Udemy JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript "JavaScript: Understanding the Weird Parts by Anthony Alicia") certificate program
   - [x] Complete as many [Code School courses](https://www.codeschool.com) as possible. These are highly focused, beginning to intermediate, subject matter classes that can be completed in 2-3 days each. **Completed 18 courses!**
-  - [x] Got accepted into the [#GrowWithGoogle](https://twitter.com/search?q=%23GrowWithGoogle&src=tyah) Challenge Scholarship and will be doing the [#GoogleUdacityScholars](https://twitter.com/search?q=%23GoogleUdacityScholars&src=tyah) program as part of #100DaysOfCode Round Two! 
+  - [x] Got accepted into the [#GrowWithGoogle](https://twitter.com/search?q=%23GrowWithGoogle&src=tyah) Challenge Scholarship and will be doing the [#GoogleUdacityScholars](https://twitter.com/search?q=%23GoogleUdacityScholars&src=tyah) program as part of #100DaysOfCode Round Two!
+
+  <!--
+  - [ ] Complete [FCC Front End Development Certification](https://www.freecodecamp.com/james-priest "FCC Profile") program
+  - [ ] Complete [Udemy The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/ "The Web Developer Bootcamp by Colt Steele") certificate program
+  - [ ] Complete [Udemy JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript "JavaScript: Understanding the Weird Parts by Anthony Alicia") certificate program
+  -->
 
 <!--
 - Considering...
