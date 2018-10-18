@@ -25,11 +25,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [x] Get established in Twitter dev community
   - This has been awesome!
   - Great support and encouragement from my Twitter family!
-  - Use #100DaysOfCode, #CodeNewbie, & #freecodecamp hashtags.
+  - Use [#100DaysOfCode](https://twitter.com/search?q=%23100DaysOfCode&src=tyah) hashtag.
 
 ### Secondary Goals & Resources
 
-- [x] Complete as many [Code School courses](https://www.codeschool.com) as possible. These are highly focused, beginning to intermediate, subject matter classes that can be completed in 2-3 days each. **Completed 18 courses!**
+- [x] Complete as many [Code School courses](https://www.codeschool.com) as possible. These are highly focused, subject matter classes that can be completed in a week's time. **Completed 18 courses!**
 - [x] Got accepted into the [#GrowWithGoogle](https://twitter.com/search?q=%23GrowWithGoogle&src=tyah) Challenge Scholarship and will be doing the [#GoogleUdacityScholars](https://twitter.com/search?q=%23GoogleUdacityScholars&src=tyah) program as part of #100DaysOfCode Round Two!
 
   <!--
