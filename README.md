@@ -29,9 +29,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ### Secondary Goals & Resources
 
-- Knock out the following...
-  - [x] Complete as many [Code School courses](https://www.codeschool.com) as possible. These are highly focused, beginning to intermediate, subject matter classes that can be completed in 2-3 days each. **Completed 18 courses!**
-  - [x] Got accepted into the [#GrowWithGoogle](https://twitter.com/search?q=%23GrowWithGoogle&src=tyah) Challenge Scholarship and will be doing the [#GoogleUdacityScholars](https://twitter.com/search?q=%23GoogleUdacityScholars&src=tyah) program as part of #100DaysOfCode Round Two!
+- [x] Complete as many [Code School courses](https://www.codeschool.com) as possible. These are highly focused, beginning to intermediate, subject matter classes that can be completed in 2-3 days each. **Completed 18 courses!**
+- [x] Got accepted into the [#GrowWithGoogle](https://twitter.com/search?q=%23GrowWithGoogle&src=tyah) Challenge Scholarship and will be doing the [#GoogleUdacityScholars](https://twitter.com/search?q=%23GoogleUdacityScholars&src=tyah) program as part of #100DaysOfCode Round Two!
 
   <!--
   - [ ] Complete [FCC Front End Development Certification](https://www.freecodecamp.com/james-priest "FCC Profile") program
